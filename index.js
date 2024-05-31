@@ -1,1 +1,6 @@
-console.log("gittin it")
+console.log("gittin it");
+
+const ishan={
+    age:12,
+    class:6
+};
